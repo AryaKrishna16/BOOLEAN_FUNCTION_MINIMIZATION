@@ -39,12 +39,20 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+<img width="1163" height="749" alt="Screenshot 2025-11-17 193057" src="https://github.com/user-attachments/assets/928307de-be93-43d2-8f7a-6c056615a2ff" />
+
 
 **Output:**
+<img width="1202" height="584" alt="Screenshot 2025-11-17 193221" src="https://github.com/user-attachments/assets/4212a9a7-8ca0-44fc-b376-dc48127c26b0" />
+
 
 **RTL**
+<img width="1200" height="565" alt="Screenshot 2025-11-17 193240" src="https://github.com/user-attachments/assets/0bb87f67-aeb9-4fa0-b052-b68f18128a7b" />
+
 
 **Timing Diagram**
+<img width="1184" height="509" alt="Screenshot 2025-11-17 193252" src="https://github.com/user-attachments/assets/c29996bb-0baa-4e87-92d7-8ef824d30d08" />
+
 
 **Result:**
 
