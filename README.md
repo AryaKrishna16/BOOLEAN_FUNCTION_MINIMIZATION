@@ -34,6 +34,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 MINIMIZATION OF BOOLEAN FUNCTION
+
 i)
 ```
 module funct1(a,b,c,d,f1);
